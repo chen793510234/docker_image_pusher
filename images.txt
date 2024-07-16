@@ -1,2 +1,2 @@
 nginx
-open-jdk:1.8
+openjdk:1.8
