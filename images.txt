@@ -4,5 +4,5 @@ redis:7.0.15
 rabbitmq:3.12.14
 emqx:5.1.6
 nginx:1.26.1
-sentinel-dashboard:1.8.6
+bladex/sentinel-dashboard:1.8.6
 openjdk:8-jre
