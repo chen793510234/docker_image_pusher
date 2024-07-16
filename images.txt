@@ -1,2 +1,8 @@
-nginx
-openjdk
+mysql:5.7
+nacos/nacos-server:2.1.0
+redis:7.0.4
+rabbitmq:3.8.8
+emqx:5.1.6
+nginx:1.23.1
+bladex/sentinel-dashboard:1.8.6
+openjdk:8-jre
