@@ -1,5 +1,5 @@
 mysql:5.7
-nacos/nacos-server:2.1.0
+nacos/nacos-server:v2.3.2
 redis:7.0.15
 rabbitmq:3.12.14
 emqx:5.1.6
