@@ -1,8 +1,8 @@
 mysql:5.7
-nacos-服务器：2.1.0
+nacos-server:2.1.0
 redis:7.0.15
-rabbitmq：3.12.14
+rabbitmq:3.12.14
 emqx:5.1.6
 nginx:1.26.1
-哨兵仪表板：1.8.6
-openjdk：8-jre
+sentinel-dashboard:1.8.6
+openjdk:8-jre
