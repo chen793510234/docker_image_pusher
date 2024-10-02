@@ -7,3 +7,4 @@ nginx:1.26.1
 bladex/sentinel-dashboard:1.8.6
 openjdk:8-jre
 seataio/seata-server:1.5.0
+tdengine/tdengine:3.0.1.4
