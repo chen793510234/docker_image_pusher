@@ -7,8 +7,8 @@ rabbitmq:3.12.14
 emqx:5.1.6
 nginx:1.26.1
 bladex/sentinel-dashboard:1.8.6
-openjdk:17
-openjdk:21
+eclipse-temurin:17
+eclipse-temurin:21
 seataio/seata-server:1.5.0
 tdengine/tdengine:3.3.5.0
 tdengine/tdengine:3.3.5.8
