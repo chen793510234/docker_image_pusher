@@ -8,7 +8,7 @@ emqx:5.1.6
 emqx:6.3.2
 nginx:1.26.1
 bladex/sentinel-dashboard:1.8.6
-openjdk:8-jre
+openjdk:8
 openjdk:17
 openjdk:21
 seataio/seata-server:1.5.0
